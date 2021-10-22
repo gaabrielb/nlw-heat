@@ -1,5 +1,5 @@
 # NLW - Heat
 
-### Aplicação criada na NLW
+### Aplicação criada na NLW - Heat
 
 ### JS | HTML | CSS
